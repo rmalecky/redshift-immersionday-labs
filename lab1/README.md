@@ -2,7 +2,6 @@
 In this lab you will launch a new Redshift Cluster and setup connectivity 
 
 ## Contents
-* [Before You Begin](#before-you-begin)
 * [Configure Security](#configure-security)
 * [Launch Redshift Cluster ](#launch-redshift-cluster)
 * [Run Sample Query](#run-sample-query)
