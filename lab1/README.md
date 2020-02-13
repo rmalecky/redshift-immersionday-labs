@@ -35,6 +35,9 @@ https://console.aws.amazon.com/redshiftv2/home?#clusters
 LClick **Create Cluster** to launch the Redshift cluster.
 
 ## Connect with the in console editor
+Select the Editor tab on the Redshift console.  Enter your connection details.  The default name for the database is`dev` the default name for the database user is `awsuser`.  Hit the `Connect to database` button when you are done.
+
+Once connected select the `public` schema from the schema dropdown.
 
 ## Run Sample Query
 * Run the following query to list the users within the redshift cluster.  
